@@ -112,6 +112,21 @@ the **[ka-tet](https://github.com/indicaindependent/ka-tet#the-creed)**.
 
 Original composition — see [ATTRIBUTION.md](ATTRIBUTION.md).
 
+
+## THE OTHER SEATS
+
+The ka-tet is a **wheel, not a ladder** — every seat is reachable from every other one,
+not only through the hub.
+
+| Seat | What it holds |
+|---|---|
+| **[The Gunslinger](https://github.com/indicaindependent/the-gunslinger)** | Twenty-four chambers, exactly one mounted at a time. |
+| **[The Apprentice](https://github.com/indicaindependent/the-apprentice)** | Twelve chambers for dealing with humans. Five of them hand the action to a person. |
+
+Two seats hold no repository. **The Master** is the human at the top, and **The Dinh** sits
+directly beneath him and may decide in his place. The wheel topology, the five seats and the
+shared creed are all in the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
+
 ---
 
 *Small, four-legged, and the only hand that writes.*

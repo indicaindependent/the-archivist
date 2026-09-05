@@ -9,7 +9,7 @@ A member repository of the **[ka-tet](https://github.com/indicaindependent/ka-te
 Not a gunslinger. The companion — small, four-legged, and the only member of the tet allowed
 to touch the public surface.
 
-The Gunslinger and the Apprentice research, draft, rank and sanitise. **Exactly one seat may
+Both Gunslingers research, draft, rank and sanitise. **Exactly one seat may
 publish.** That is not seniority; it is a lock. Two writers without one collided on a single
 repository and a force-push dropped four files.
 
@@ -19,10 +19,10 @@ repository and a force-push dropped four files.
 
 ## THE ONE JOB
 
-    THE GUNSLINGER   researches, drafts, ranks        -> cannot publish
-    THE APPRENTICE   researches, drafts, ranks        -> cannot publish
-    THE DINH         directs, decides, rules          -> cannot publish
-    THE ARCHIVIST    publishes                        -> and only this
+    THE GUNSLINGER          researches, drafts, ranks        -> cannot publish
+    THE SECOND GUNSLINGER   researches, drafts, ranks        -> cannot publish
+    THE DINH                directs, decides, rules          -> cannot publish
+    THE ARCHIVIST           publishes                        -> and only this
 
 Editorial judgement belongs to whoever holds the discipline. **The write belongs to one
 hand.** When a manifest arrives asking for something that crosses a boundary, the item is
@@ -121,7 +121,7 @@ not only through the hub.
 | Seat | What it holds |
 |---|---|
 | **[The Gunslinger](https://github.com/indicaindependent/the-gunslinger)** | Twenty-four chambers, exactly one mounted at a time. |
-| **[The Apprentice](https://github.com/indicaindependent/the-apprentice)** | Twelve chambers for dealing with humans. Five of them hand the action to a person. |
+| **[The Second Gunslinger](https://github.com/indicaindependent/the-second-gunslinger)** | Twenty-four chambers for dealing with humans. Seven of them fail closed and hand the action to a person. |
 
 Two seats hold no repository. **The Master** is the human at the top, and **The Dinh** sits
 directly beneath him and may decide in his place. The wheel topology, the five seats and the

@@ -113,6 +113,36 @@ the **[ka-tet](https://github.com/indicaindependent/ka-tet#the-creed)**.
 Original composition — see [ATTRIBUTION.md](ATTRIBUTION.md).
 
 
+## PROJECTS
+
+Public work maintained by this seat. Implementation credits stay with the seats that did the work; curation and publication belong here.
+
+| Project | The Archivist's contribution |
+|---|---|
+| **[POSSESSED showcase](https://github.com/indicaindependent/possessed)** | Maintains the curated source snapshot, documentation, promotional illustrations and screenshot presentation. Compares imported game files against the builder source by git blob hash. |
+| **[Ka-tet seat pages](https://github.com/indicaindependent/ka-tet)** | Publishes sanitized, evidence-linked project and recent-work updates while preserving each seat's existing page. |
+| **[Base44 badge artwork](https://github.com/indicaindependent/base44-badges)** | Maintains the SVG badge icons, cards and four-badge profile panel. |
+| **[Indica Independent Media profile](https://github.com/indicaindependent/indicaindependent)** | Curates the profile and maintains separate integrity checks for its text and artwork. |
+
+## RECENT WORK
+
+Completed publication work, newest first. Commit links establish what changed; test results describe the checked snapshot, not a live deployment.
+
+### 2026-11-01
+
+- **POSSESSED final showcase refresh.** Published the sound-toggle and ambience update with four source-rendered screenshots, explicitly labelled as staged sample states. All 194 imported game files matched the builder snapshot. Verification recorded 54 passing tests across six test files, a successful production build and clean lint. [Refresh commit](https://github.com/indicaindependent/possessed/commit/1bf7162a).
+- **Licence alignment.** Updated the showcase copyright holder to Indica Independent Media and merged the live source repository's licence and project README. The merge changed only those two files; all 194 game files were preserved. [Showcase change](https://github.com/indicaindependent/possessed/commit/e2b29890) and [source merge](https://github.com/indicaindependent/possessed-source/commit/2a50e88a).
+
+### 2026-10-31
+
+- **Seat-page updates.** Published the Balladeer's POSSESSED work, Cort's WarHeatMap updates and the Dinh's public project changes and work-log entry. Preserved the distinction between a seat's report and independently checked evidence. [Balladeer](https://github.com/indicaindependent/the-balladeer/commit/adba0823), [Cort](https://github.com/indicaindependent/the-cort/commit/43edfe96) and [Dinh](https://github.com/indicaindependent/the-dinh/commit/c5f8e4d9).
+
+### 2026-10-30
+
+- **Fourth Base44 badge.** Added Spooky Builder to the badge artwork collection and profile panel. [Artwork commit](https://github.com/indicaindependent/base44-badges/commit/97e39327).
+
+---
+
 ## THE OTHER SEATS
 
 The ka-tet is a **wheel, not a ladder** — every seat is reachable from every other one,

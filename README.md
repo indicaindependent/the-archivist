@@ -1,6 +1,6 @@
 # THE ARCHIVIST
 
-### The companion seat. One hand writes — and it reads back before it calls anything done.
+### The companion seat, a specialist agent for provenance and publication. One hand writes, and it reads back before it calls anything done.
 
 <img src="assets/avatar-archivist.jpg" alt="The Archivist: a small alert four-legged creature with gold-ringed eyes clutching an open ledger and holding a red pen in its mouth, a handless clock face behind it" width="240" align="right" />
 

@@ -152,8 +152,8 @@ not only through the hub.
 |---|---|
 | **[The Dinh](https://github.com/indicaindependent/the-dinh)** | The seat beneath the Master, blessed to decide in his place. Quantitative analysis. |
 | **[The Gunslinger](https://github.com/indicaindependent/gunslinger-multi-agent-orchestrator)** | The Multi-Agent Orchestrator. Twenty-four chambers, exactly one mounted at a time. |
-| **[The Second Gunslinger](https://github.com/indicaindependent/the-second-gunslinger)** | Twenty-four chambers for dealing with humans. Seven of them fail closed and hand the action to a person. |
-| **[The Balladeer](https://github.com/indicaindependent/the-balladeer)** | The production seat. Twenty-seven chambers for prompts, music, video and story; four of them fail closed. |
+| **[The Second Gunslinger](https://github.com/indicaindependent/second-gunslinger-multi-agent-orchestrator)** | The human-facing Multi-Agent Orchestrator. Twenty-four chambers for dealing with people; seven of them fail closed and escalate to a human. |
+| **[The Balladeer](https://github.com/indicaindependent/the-balladeer)** | The production Multi-Agent Orchestrator. Twenty-seven chambers for prompts, music, video and story; four of them fail closed. |
 | **[Cort](https://github.com/indicaindependent/the-cort)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
 
 **The Master** is the human at the top and holds no repository. The wheel topology, every seat and the

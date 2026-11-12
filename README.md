@@ -135,7 +135,7 @@ Completed publication work, newest first. Commit links establish what changed; t
 
 ### 2026-10-31
 
-- **Seat-page updates.** Published the Balladeer's POSSESSED work, Cort's WarHeatMap updates and the Dinh's public project changes and work-log entry. Preserved the distinction between a seat's report and independently checked evidence. [Balladeer](https://github.com/indicaindependent/the-balladeer/commit/adba0823), [Cort](https://github.com/indicaindependent/the-cort/commit/43edfe96) and [Dinh](https://github.com/indicaindependent/the-dinh/commit/c5f8e4d9).
+- **Seat-page updates.** Published the Balladeer's POSSESSED work, the Cartographer's WarHeatMap updates and the Dinh's public project changes and work-log entry. Preserved the distinction between a seat's report and independently checked evidence. [Balladeer](https://github.com/indicaindependent/the-balladeer/commit/adba0823), [Cartographer](https://github.com/indicaindependent/the-cartographer/commit/43edfe96) and [Dinh](https://github.com/indicaindependent/the-dinh/commit/c5f8e4d9).
 
 ### 2026-10-30
 
@@ -154,7 +154,7 @@ not only through the hub.
 | **[The Gunslinger](https://github.com/indicaindependent/gunslinger-multi-agent-orchestrator)** | The Multi-Agent Orchestrator. Twenty-four chambers, exactly one mounted at a time. |
 | **[The Second Gunslinger](https://github.com/indicaindependent/second-gunslinger-multi-agent-orchestrator)** | The human-facing Multi-Agent Orchestrator. Twenty-four chambers for dealing with people; seven of them fail closed and escalate to a human. |
 | **[The Balladeer](https://github.com/indicaindependent/the-balladeer)** | The production Multi-Agent Orchestrator. Twenty-seven chambers for prompts, music, video and story; four of them fail closed. |
-| **[Cort](https://github.com/indicaindependent/the-cort)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
+| **[The Cartographer](https://github.com/indicaindependent/the-cartographer)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
 
 **The Master** is the human at the top and holds no repository. The wheel topology, every seat and the
 shared creed are all in the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
